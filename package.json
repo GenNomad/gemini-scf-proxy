@@ -1,0 +1,15 @@
+{
+  "name": "gemini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sls.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Ironben",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.16.1",
+    "http-proxy-middleware": "^2.0.6"
+  }
+}
